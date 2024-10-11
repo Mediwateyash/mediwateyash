@@ -32,12 +32,12 @@ I am a **Computer Engineering student** and **Full Stack Developer** with a pass
 
 ## 📫 Let's Connect
 - **Email**: [Diwateyash2004@gmail.com](mailto:diwateyash2004@gmail.com)
-- **LinkedIn**: [mediwateyash](#)
-- **Twitter**: [Your Twitter](#)
+- **LinkedIn**: [mediwateyash](https://www.linkedin.com/in/diwateyash2004/)
+- **Twitter**: [Your Twitter](https://x.com/imdiwateyash)
 - **YouTube**: [Your YouTube Channel](https://www.youtube.com/channel/NotescloudbyDY)
-- **Instagram**: [Your Instagram](#)
+- **Instagram**: [Your Instagram](https://www.instagram.com/im_.diwateyash/)
 - **Personal Website**: [Your Website](#)
-- **Portfolio**: [Your Portfolio](#)
+- **Portfolio**: [Your Portfolio](https://mediwateyash.github.io/portfolio-website/)
 
 ---
 
